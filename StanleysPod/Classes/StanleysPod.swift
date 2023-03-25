@@ -33,4 +33,8 @@ public class StanleysPod {
     public func printThree() {
         print("Three")
     }
+    
+    public func printCristinasName() {
+        print("Cristina")
+    }
 }

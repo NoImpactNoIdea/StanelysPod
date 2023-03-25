@@ -1,0 +1,16 @@
+PODS:
+  - StanleysPod (0.1.0)
+
+DEPENDENCIES:
+  - StanleysPod (from `../`)
+
+EXTERNAL SOURCES:
+  StanleysPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  StanleysPod: 52b5758f7faa581f185558985918888edb1e9ceb
+
+PODFILE CHECKSUM: 4101e0e904fbbe12f7d2ae593fad25db86609e0a
+
+COCOAPODS: 1.12.0

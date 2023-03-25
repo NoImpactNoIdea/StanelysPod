@@ -7,12 +7,18 @@
 //
 
 import UIKit
+import StanleysPod
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        self.view.backgroundColor = .red
+        StanleysPod().printMyName()
+        StanleysPod().printStansName()
+
+        
     }
 
     override func didReceiveMemoryWarning() {

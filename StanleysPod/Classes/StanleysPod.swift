@@ -25,4 +25,8 @@ public class StanleysPod {
     public func printMaddiesName() {
         print("Madison Arcodia")
     }
+    
+    public func printLogic() {
+        print("Logic")
+    }
 }

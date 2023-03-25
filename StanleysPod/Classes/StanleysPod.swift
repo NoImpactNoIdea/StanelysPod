@@ -21,4 +21,8 @@ public class StanleysPod {
     public func printStansName() {
         print("Stanley Miller")
     }
+    
+    public func printMaddiesName() {
+        print("Madison Arcodia")
+    }
 }

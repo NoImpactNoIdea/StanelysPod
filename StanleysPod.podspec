@@ -24,11 +24,14 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://www.google.com'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'KWIKS CTO' => 'charlie@kwiks.com' }
-  s.source           = { :git => 'https://github.com/26388491/StanleysPod.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/NoImpactNoIdea/StanelysPod.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '14.0'
+  s.swift_versions="5.0"
 
   s.source_files = 'StanleysPod/Classes/**/*'
+     s.requires_arc    = true
+
   
   # s.resource_bundles = {
   #   'StanleysPod' => ['StanleysPod/Assets/*.png']

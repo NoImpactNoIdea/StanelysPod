@@ -22,7 +22,7 @@ pod 'StanleysPod'
 
 ## Author
 
-26388491, noimpactapplications@gmail.com
+  KWIKS CTO, noimpactapplications@gmail.com
 
 ## License
 

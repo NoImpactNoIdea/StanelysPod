@@ -29,4 +29,8 @@ public class StanleysPod {
     public func printLogic() {
         print("Logic")
     }
+    
+    public func printThree() {
+        print("Three")
+    }
 }

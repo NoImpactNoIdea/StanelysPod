@@ -1,5 +1,5 @@
 PODS:
-  - StanleysPod (0.1.0)
+  - StanleysPod (0.1.2)
 
 DEPENDENCIES:
   - StanleysPod (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  StanleysPod: 52b5758f7faa581f185558985918888edb1e9ceb
+  StanleysPod: 18c70f16b7ca7d6c7bd40e8fb5fa0634cf722db3
 
 PODFILE CHECKSUM: 4101e0e904fbbe12f7d2ae593fad25db86609e0a
 
